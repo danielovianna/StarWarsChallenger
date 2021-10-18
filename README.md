@@ -7,6 +7,7 @@ O "Desafio Star Wars" consiste em criar uma rest API em Python usando FastApi, M
 Verifique se sua máquina possui o instalador de pacotes [pip](https://pypi.org/help/). É necessário também ter o [MongoDB](https://www.mongodb.com/) instalado e rodando na máquina.
 
 ## Instalação
+Não esqueça de iniciar o seu venv (virtual environment) antes.
 ```bash
 # Instalando todos os requirementos:
 pip install -r requeriments.txt
